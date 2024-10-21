@@ -4,10 +4,10 @@ import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
-    <div>
+    <main className="overflow-y-hidden text-neutral-200 antialiased">
       <HeroSection />
       <Navbar />
-    </div>
+    </main>
   );
 };
 
