@@ -80,7 +80,7 @@ export const DISHES = [
 export const ABOUT = {
   header: "We love cooking!",
   content:
-    "At Restaura, we believe that great food goes beyond taste; it tells a story of dedication and creativity. From our chef's signature creations to our attentive service, every detail is curated to ensure your visit is nothing short of exceptional. Whether you're savoring our renowned Tikka Kebab or exploring our diverse menu inspired by global flavors, each dish is a celebration of flavor and innovation. Join us for a culinary journey where every bite leaves a lasting impression. Experience Restaura—where every meal is a masterpiece.",
+    'At "Tuwo Lagos", we believe that great food goes beyond taste; it tells a story of dedication and creativity. From our chef signature creations to our attentive service, every detail is curated to ensure your visit is nothing short of exceptional. Whether you are savoring our renowned "Tuwo Shinkafa" or exploring our diverse menu inspired by global flavors, each dish is a celebration of flavor and innovation. Join us for a culinary journey where every bite leaves a lasting impression. Experience "Tuwo Lagos" where every meal is a masterpiece.',
 };
 
 export const MISSION =
@@ -90,16 +90,16 @@ export const CUSINES = [
   {
     number: "01.",
     image: italian,
-    title: "Italian",
+    title: "Nigerian",
     description:
-      "Experience the flavors of Italy with our exquisite Italian cuisine, featuring traditional recipes and contemporary dishes.",
+      "Experience the flavors of Naija with our exquisite Nigerian cuisine, featuring traditional recipes and contemporary dishes.",
   },
   {
     number: "02.",
     image: japanese,
-    title: "Japanese",
+    title: "Italian",
     description:
-      "Delight in the art of Japanese culinary excellence, offering a fusion of classic and modern flavors.",
+      "Delight in the art of Italian culinary excellence, offering a fusion of classic and modern flavors.",
   },
   {
     number: "03.",
@@ -111,16 +111,16 @@ export const CUSINES = [
 ];
 
 export const REVIEW = {
-  name: "Xaviour Fernando",
+  name: "Aaliyah Ademola",
   profession: "Food Critic",
   content:
-    "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Restaura, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
+    "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Tuwo Lagos, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
 };
 
 export const CONTACT = [
-  { key: "address", value: "Address: 123 Main Street, Paris, France, 345678" },
-  { key: "phone", value: "Phone: 123-456-7890" },
-  { key: "email", value: "Email: contact@restaurant.com" },
+  { key: "address", value: "Address: I Don't Know where, Lagos, Nigeria" },
+  { key: "phone", value: "Phone: 811-787-7159" },
+  { key: "email", value: "Email: tuwolagos@gmail.com" },
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
