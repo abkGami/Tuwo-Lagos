@@ -1,6 +1,7 @@
 import video from "../assets/hero.mp4";
 import logo from "../assets/logo.png";
 import hero from "../assets/hero.jpeg";
+import { motion } from "framer-motion";
 const HeroSection = () => {
   return (
     <section className="relative flex h-screen items-center justify-center">
@@ -20,7 +21,14 @@ const HeroSection = () => {
       from-70% to-black"
       ></div>
       <div className="relative z-20 flex h-screen flex-col justify-end pb-20">
-        <img src={logo} alt="Tuwo Lagos" className="w-full p-4 " />
+        <motion.img
+          initial={{ opacity: 0, y: 50 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 2 }}
+          src={logo}
+          alt="Tuwo Lagos"
+          className="w-full p-4 "
+        />
         <p className="p-4 text-lg text-white tracking-tighter">Lagos - NG</p>
       </div>
     </section>
