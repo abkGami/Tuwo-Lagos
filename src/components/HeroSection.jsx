@@ -15,7 +15,7 @@ const HeroSection = () => {
           loop
           playsInline
           muted
-          poster={hero}
+          // poster={hero}
           className="h-full w-full object-cover"
         ></video>
       </div>

@@ -27,54 +27,53 @@ export const LINKS = [
 export const DISHES = [
   {
     image: dish1,
-    title: "Spaghetti Carbonara",
-    description: "Creamy pasta with bacon and cheese",
+    title: "Tuwo Shinkafa",
+    description: "A local dish from the north made from Rice",
   },
   {
     image: dish2,
-    title: "Chicken Tikka Masala",
-    description: "Indian curry with tender chicken in spicy sauce",
+    title: "Jollof Rice",
+    description: "Our national food that Ghanians are trying to steal from us",
   },
   {
     image: dish3,
-    title: "Caprese Salad",
-    description: "Fresh tomatoes, mozzarella, and basil with balsamic glaze",
+    title: "Fried Rice",
+    description: "The underrated brother to Jollof",
   },
   {
     image: dish4,
-    title: "Sushi Roll",
-    description: "Assorted seafood and vegetables wrapped in seaweed and rice",
+    title: "Moi-Moi and Pap",
+    description: "Moi-Moi made from beans, and Pap made from millet",
   },
   {
     image: dish5,
-    title: "Chocolate Lava Cake",
-    description: "Decadent chocolate cake with a gooey center",
+    title: "Masa and Stew",
+    description: "A local dish from the north made from rice also",
   },
   {
     image: dish6,
-    title: "Greek Salad",
-    description: "Crisp lettuce, olives, feta cheese, and tangy dressing",
+    title: "Abasha",
+    description: "Local dish from the Igbos",
   },
   {
     image: dish7,
-    title: "Pad Thai",
-    description: "Stir-fried rice noodles with shrimp, tofu, and peanuts",
+    title: "Kebabs",
+    description: 'Inter-Continental dish from the "Middle-East"',
   },
   {
     image: dish8,
-    title: "Peking Duck",
-    description: "Crispy duck with pancakes, cucumber, and hoisin sauce",
+    title: "Dumplings",
+    description: "Inter-Continental dish from China",
   },
   {
     image: dish9,
-    title: "Beef Wellington",
-    description: "Tender beef filet wrapped in pastry with mushrooms and herbs",
+    title: "Sushi",
+    description: "Intercontinental dish from Japan made with fish",
   },
   {
     image: dish10,
-    title: "Tiramisu",
-    description:
-      "Italian dessert with layers of coffee-soaked biscuits and mascarpone",
+    title: "Feijoada ",
+    description: "Intercontinental dish from Jamaica",
   },
 ];
 
