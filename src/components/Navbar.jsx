@@ -29,7 +29,9 @@ const Navbar = () => {
         className="flex w-full items-center justify-between overflow-y-hidden p-4 backdrop-blur-lg 
                       lg:m-2 lg:w-[50rem]  lg:rounded-full lg:shadow-lg"
       >
-        <img src={logo} alt="Tuwo Lagos" width={80} height={22} />
+        <a href="#" className={`hover:opacity-50`}>
+          <img src={logo} alt="Tuwo Lagos" width={80} height={22} />
+        </a>
         <div className="hidden space-x-6 lg:flex">
           {LINKS.map((link, index) => (
             <a
