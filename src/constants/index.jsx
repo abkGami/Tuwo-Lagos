@@ -111,7 +111,7 @@ export const CUSINES = [
 ];
 
 export const REVIEW = {
-  name: "Aaliyah Ademola",
+  name: "Aaliyah Ademola 😁",
   profession: "Food Critic",
   content:
     "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Tuwo Lagos, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
