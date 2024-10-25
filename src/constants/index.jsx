@@ -53,7 +53,7 @@ export const DISHES = [
   {
     image: dish6,
     title: "Abasha",
-    description: "Local dish from the Igbos",
+    description: "Local dish from  Igbos",
   },
   {
     image: dish7,
