@@ -9,7 +9,7 @@ const Footer = () => {
             href={link.href}
             target="_blank"
             rel="noopener noreferrer"
-          > 
+          >
             {link.icon}
           </a>
         ))}
@@ -17,7 +17,9 @@ const Footer = () => {
       <p className="mt-8 text-center tracking-tighter text-neutral-500">
         &copy;Abk. 2024
       </p>
-      <p>Skadoosh</p>
+      <p className="mt-8 text-center tracking-tighter text-neutral-500">
+        Skadoosh
+      </p>
     </div>
   );
 };
