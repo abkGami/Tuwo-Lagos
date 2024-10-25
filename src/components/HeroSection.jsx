@@ -30,7 +30,7 @@ const HeroSection = () => {
           transition={{ duration: 2 }}
           src={logo}
           alt="Tuwo Lagos"
-          className="w-full p-4 "
+          className="w-full p-4"
         />
         <p className="p-4 text-lg text-white tracking-tighter">Lagos - NG</p>
       </div>
