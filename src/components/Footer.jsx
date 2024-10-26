@@ -18,7 +18,7 @@ const Footer = () => {
         &copy;Abk. 2024
       </p>
       <p className="mt-3 text-center tracking-tighter text-neutral-500">
-        Skadoosh
+        Skadoosh 👾
       </p>
     </div>
   );

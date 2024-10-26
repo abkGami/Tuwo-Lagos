@@ -19,10 +19,7 @@ const HeroSection = () => {
           className="h-full w-full object-cover"
         ></video>
       </div>
-      <div
-        className="absolute inset-0 -z-10 bg-gradient-to-b from-transparent
-      from-70% to-black"
-      ></div>
+      <div className="absolute inset-0 -z-10 bg-gradient-to-b from-transparent from-70% to-black"></div>
       <div className="relative z-20 flex h-screen flex-col justify-end pb-20">
         <motion.img
           initial={{ opacity: 0, y: 50 }}
