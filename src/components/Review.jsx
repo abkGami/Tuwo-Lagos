@@ -20,7 +20,7 @@ const Review = () => {
             height={80}
             className="rounded-full border"
           />
-          <div className="tracking-tighter">
+          <div className="tracking-tighter ">
             <h6>{REVIEW.name}</h6>
             <p className="text-sm text-neutral-500">{REVIEW.profession}</p>
           </div>
