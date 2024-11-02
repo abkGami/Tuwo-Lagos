@@ -8,6 +8,7 @@ import Expertise from "./components/Expertise";
 import Review from "./components/Review";
 import ContactSection from "./components/ContactSection";
 import Footer from "./components/Footer";
+import { Analytics } from "@vercel/analytics/react";
 
 const App = () => {
   return (
